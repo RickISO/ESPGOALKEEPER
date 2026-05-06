@@ -3,6 +3,7 @@
 #include "utilities/constants.h"
 
 variables constants;
+// PS4 controller instance
 
 // Limit switch state
 volatile bool stopMotorLeft = false;
